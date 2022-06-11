@@ -1,6 +1,6 @@
  - 👋 Hi, I’m @Ryoferzz
- - 👀 I’m interested in Computer,Arduino,PLC,English language, & 日本語
- - 🌱 I’m currently learning on arduino and JLPT
+ - 👀 I’m interested in Computer, Arduino, 英語, & 日本語
+ - 🌱 I’m currently learning on Arduino
  - 💞️ (already occupied)
  - 📫 How to reach me s.id/Ryo-chan
 
