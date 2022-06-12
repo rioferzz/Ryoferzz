@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&show_icons=true" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz&layout=compact" />
 </p>
 
 
