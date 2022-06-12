@@ -5,11 +5,10 @@
  - 🌱 I’m currently learning on Arduino
  
  - 💞️ (already occupied)
+
  
  <h1>📫 How to reach me:</h1>
 
- 
- - Mail me: rio.ferianto@mhs.unsoed.ac.id
  
  - Simply click this button: 
  (If you wan't to ask something or send some support)
@@ -24,7 +23,7 @@
 [![Twitter: Rioferzz](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rioferzz)
 [![Linkedin: Rioferzz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
 [![YouTube: Rioferzz](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
-
+[![Gmail Unsoed](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rio.ferianto@mhs.unsoed.ac.id)
 
  - Please consider to press the follow button below, that will support me a lot
 
