@@ -26,7 +26,7 @@
 
 [![Twitter: Rioferzz](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rioferzz)
 
-[![Linkedin: Rioferzz](https://img.shields.io/badge/-Rio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rio-ferianto-1392b712a/)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
+[![Linkedin: Rioferzz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
 
 
 <p align="left">
@@ -45,10 +45,14 @@ You can click the Preview link to take a look at your changes.
 
 ![Metrics](https://metrics.lecoq.io/Ryoferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
-![Ryoferzz Github Stats](https://github-readme-stats.vercel.app/api?username=Ryoferzz&show_icons=true)
+<p align="left">
+    <img width = "48%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&show_icons=true"/>
+    <img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz"/>
+</p>
 
-![Ryoferzz Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz)
+<p align="left">
+    <img width = "48%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal"/>
+    <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz"/>
+</p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="irosyadi" /></p>
