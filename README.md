@@ -1,6 +1,6 @@
 <h1>Ryoferzz</h1>
 
- - 👋 Hi, I’m <img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Vanilla-1s-280px.gif" style="width:100px;display: block; margin: 0 auto;">
+ - 👋 Hi, I’m <img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Vanilla-1s-280px.gif" style="width:50px;display: block; margin: 0 auto;">
 
  - 👀 I’m interested in Computer, Arduino, 英語, & 日本語
  
