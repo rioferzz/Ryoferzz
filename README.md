@@ -46,13 +46,15 @@ You can click the Preview link to take a look at your changes.
 ![Metrics](https://metrics.lecoq.io/Ryoferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
 <p align="left">
-    <img width = "48%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&show_icons=true"/>
-    <img width = "48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&show_icons=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz" />
 </p>
 
+
+
 <p align="left">
-    <img width = "48%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal"/>
-    <img width = "48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz"/>
+    <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz" />
 </p>
 
 
