@@ -23,10 +23,15 @@
   <img src="https://komarev.com/ghpvc/?username=Ryoferzz" alt="Ryoferzz" />
 </p>
 <p align="left">
+
 [![Facebook: Rioferiezz](https://img.shields.io/facebook/follow/rioferiezz?style=social)](https://facebook.com/rioferiezz)
+
 [![Twitter: Rioferzz](https://img.shields.io/twitter/follow/Rioferzz?style=social)](https://twitter.com/Rioferzz)
-[![Linkedin: Rioferzz](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rio-ferianto-1392b712a/)](https://www.linkedin.com/in/irosyadi/)
+
+[![Linkedin: Rioferzz](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rio-ferianto-1392b712a/)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
+
 [![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ryoferzz" alt="Ryoferzz" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=Ryoferzz" alt="visitor badge"/>
@@ -47,6 +52,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Ryoferzz Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="irosyadi" /></p>
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="irosyadi" /></p>
