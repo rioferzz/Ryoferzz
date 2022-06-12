@@ -53,8 +53,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="left">
-    <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz" />
+    <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal&layout=compact" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz&layout=compact" />
 </p>
 
 
