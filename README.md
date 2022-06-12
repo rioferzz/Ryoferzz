@@ -24,7 +24,7 @@
 
 [![Facebook: Rioferiezz](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Rio&logoColor=white)](https://facebook.com/rioferiezz)
 
-[![Twitter: Rioferzz](https://img.shields.io/twitter/follow/Rioferzz?style=social)](https://twitter.com/Rioferzz)
+[![Twitter: Rioferzz](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rioferzz)
 
 [![Linkedin: Rioferzz](https://img.shields.io/badge/-Rio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rio-ferianto-1392b712a/)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
 
