@@ -26,6 +26,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=Ryoferzz" alt="visitor badge"/>
 </p>
 
+[![Duolingo: Rioferiezz](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/RioFeriant)
 [![Facebook: Rioferiezz](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Rio&logoColor=white)](https://facebook.com/rioferiezz)
 [![Twitter: Rioferzz](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rioferzz)
 [![Linkedin: Rioferzz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
