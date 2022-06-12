@@ -20,8 +20,8 @@
 
  - Please consider to press the follow button, that will support me a lot
 
-[![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
 <p align="left">
+    [![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
   <img src="https://komarev.com/ghpvc/?username=Ryoferzz" alt="Ryoferzz" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=Ryoferzz" alt="visitor badge"/>
 </p>
