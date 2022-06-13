@@ -1,19 +1,13 @@
 <h1><img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Ryonamedark.gif"></h1>
 
- - 👀 I’m interested in Computer, Arduino, 英語, & 日本語
- 
- - 🌱 I’m currently learning on Arduino
- 
- - 💞️ (already occupied)
+ - 👀 I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
+
+
+ <h1>📫 Line to reach me:</h1>
 
  
- <h1>📫 How to reach me:</h1>
-
- 
- - Simply click this button: 
- (If you wan't to ask something or send some support)
-
- (Mostly active on WhatsApp and Facebook)
+ - Simply click one of these button: 
+ (If you wan't to ask something or send some support, Mostly active on WhatsApp and Facebook).
 
 
 
@@ -25,7 +19,7 @@
 [![YouTube: Rioferzz](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
 [![Gmail Unsoed](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rio.ferianto@mhs.unsoed.ac.id)
 
- - Please consider to press the follow button below, that will support me a lot
+ - Please consider to press the follow button below, that will support me a lot.
 
 [![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
 <p align="left">
