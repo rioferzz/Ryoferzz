@@ -1,13 +1,26 @@
 <h1><img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Ryonamedark.gif"></h1>
 
- - 👀 I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
+- 👀 I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
+
+- Btw, i think knowing Programming could solve half of problem in your academics.
+ 
+    And being an expert in math (Calculus, 
+Discrete math, and college level math) is the other half.
+
+    Despite my opinion above, Being an expert in Religions, Your hobby, Judo, and the new stuff you CAN learn is a MANDATORY.
+
+- Kenapa sebagian besar repository berbahasa Inggris?, dan bagaimana cara membaca artikel dalam bahasa Indonesia?.
+
+    Because i realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
+
+    [Cara membaca repository Github dalam bahasa Indonesia](https://github.com/Ryoferzz/translate-the-github)
 
 
- <h1>📫 Line to reach me:</h1>
+ <h1>📫 Line to reach me: </h1>
 
  
  - Simply click one of these button: 
- (If you wan't to ask something or send some support, Mostly active on Facebook).
+ (If you wan't to ask something or send some support, MOSTLY active on Facebook, you can support me by sending some love using Dana/Gopay/Bank through Trakteer below btw).
 
 
 
@@ -20,10 +33,10 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ryoferzz)
 
 <a href="https://shopee.co.id/ryohoho">
-<img alt="Shopee" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png"height="30">
+<img alt="Shopee" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png"height="25">
 </a>
 <a href="https://trakteer.id/Yoyatech">
-<img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="30">
+<img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="25">
 </a>
 
 
@@ -59,9 +72,10 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=minimal&layout=compact" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=github&layout=compact" />
 </p>
 
 <p align="left">
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz&layout=compact" />
 </p>
+
