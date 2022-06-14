@@ -18,7 +18,7 @@
 [![YouTube: Rioferzz](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
 [![Gmail Unsoed](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rio.ferianto@mhs.unsoed.ac.id)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ryoferzz)
-[![Shopee](https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png)](https://shopee.co.id/ryohoho)
+[![Shopee](<img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png" style="width:200px;display: block; margin: 0 auto;">)](https://shopee.co.id/ryohoho)
 [![Trakteer](https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg)](https://trakteer.id/Yoyatech)
 
 
