@@ -7,17 +7,19 @@
 
  
  - Simply click one of these button: 
- (If you wan't to ask something or send some support, Mostly active on WhatsApp and Facebook).
+ (If you wan't to ask something or send some support, Mostly active on Facebook).
 
 
 
 [![Duolingo: Rioferiezz](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/RioFeriant)
-[![Whatsapp: Ryoferzz](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://s.id/Ryo-chan)
 [![Facebook: Rioferiezz](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Rio&logoColor=white)](https://facebook.com/rioferiezz)
 [![Twitter: Rioferzz](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rioferzz)
 [![Linkedin: Rioferzz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
 [![YouTube: Rioferzz](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
 [![Gmail Unsoed](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rio.ferianto@mhs.unsoed.ac.id)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ryoferzz)
+https://shopee.co.id/ryohoho
+https://trakteer.id/Yoyatech
 
  - Please consider to press the follow button below, that will support me a lot.
 
