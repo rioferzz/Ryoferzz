@@ -68,8 +68,13 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="left">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryoferzz&layout=compact" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
+
+<!---
+<p align="left">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz" />
+</p> --->
 
 <p align="left">
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=github&layout=compact" />
@@ -79,3 +84,7 @@ You can click the Preview link to take a look at your changes.
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz&layout=compact" />
 </p>
 
+<div id="PlaceToPutTable"></div>
+<iframe id="iframe" src="https://www.duolingo.com/profile/RioFeriant" style="display:hidden;"></iframe>
+
+<iframe width="500" height="300" style="border:none;" src="https://www.duolingo.com/profile/RioFeriant"></iframe>
