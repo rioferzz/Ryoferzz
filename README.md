@@ -23,7 +23,7 @@
 <img alt="Shopee" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png"height="30">
 </a>
 <a href="https://trakteer.id/Yoyatech">
-<img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="40">
+<img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="30">
 </a>
 
 
