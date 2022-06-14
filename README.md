@@ -20,10 +20,10 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ryoferzz)
 
 <a href="https://shopee.co.id/ryohoho">
-<img alt="Shopee" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png"height="20">
+<img alt="Shopee" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png"height="30">
 </a>
 <a href="https://trakteer.id/Yoyatech">
-<img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="20">
+<img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="40">
 </a>
 
 
