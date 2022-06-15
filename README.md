@@ -69,6 +69,9 @@ You can click the Preview link to take a look at your changes.
 <!---
 <p align="left">
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz" />
+    saya lelah disepelekan..
+    Ilmu yang saya bagikan : kecuali hal haram, memperlihatkan aurat, illegal dan melanggar hukum haki dll
+    
 </p> --->
 
 <p align="left">
