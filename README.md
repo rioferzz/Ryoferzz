@@ -9,11 +9,7 @@ Discrete math, and college level math) is the other half.
 
     Despite my opinion above, Being an expert in Religions, Your hobby, Judo, and the new stuff you CAN learn is a MANDATORY.
 
-- Kenapa sebagian besar repository berbahasa Inggris?, dan bagaimana cara membaca artikel dalam bahasa Indonesia?.
-
-    Because i realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
-
-    [Cara membaca repository Github dalam bahasa Indonesia](https://github.com/Ryoferzz/translate-the-github)
+    I realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
 
 
  <h1>📫 Line to reach me: </h1>
