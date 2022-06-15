@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Ryoferzz/github-activity-readme@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
