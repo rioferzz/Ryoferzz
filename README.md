@@ -57,23 +57,18 @@ Discrete math, and college level math) is the other half.
 <br />
 <br />
 
-<!---
- <h1>Most Recent Youtube Videos (unfinished) </h1>
-
-<!-- YOUTUBE1:START -->
-<!-- YOUTUBE1:END -->
-(https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
---->
-<br />
-<br />
-
 ### 📕 Most Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!---
+
+
 Ryoferzz/Ryoferzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<h1>Some Stats</h1>
 
 ![Metrics](https://metrics.lecoq.io/Ryoferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
 
