@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '1 7 * * 2'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with recent blog
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Ryoferzz/blog-post-workflow@master
+        with:
+          feed_list: "https://ryoferzz.github.io"

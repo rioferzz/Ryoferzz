@@ -48,11 +48,28 @@ Discrete math, and college level math) is the other half.
 
 「ありがとう」何度も叫びたい!!
 
- <h1>Most Recent Youtube Videos </h1>
+### Most Recent Youtube Videos (Rio)
 
-[![YouTube: Rioferzz](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+➡️ [Check the other videos](https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
 
+<br />
+<br />
 
+<!---
+ <h1>Most Recent Youtube Videos (unfinished) </h1>
+
+<!-- YOUTUBE1:START -->
+<!-- YOUTUBE1:END -->
+(https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
+--->
+<br />
+<br />
+
+### 📕 Most Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!---
 Ryoferzz/Ryoferzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
