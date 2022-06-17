@@ -1,21 +1,21 @@
 <h1><img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Ryonamedark.gif"></h1>
 
-- 👀 I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
+> 👀 I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
 
-- Btw, i think knowing Programming could solve half of problem in your academics.
- 
-    And being an expert in math (Calculus, 
+> Btw, i think knowing Programming could solve half of problem in your academics.
+> 
+>    And being an expert in math (Calculus, 
 Discrete math, and college level math) is the other half.
 
-    Despite my opinion above, Being an expert in Religions, Your hobby, Judo, and the new stuff you CAN learn is a MANDATORY.
+>    Despite my opinion above, Being an expert in Religions, Your hobby, Judo, and the new stuff you CAN learn is a MANDATORY.
 
-    I realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
+ >   I realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
 
 
  <h1>📫 Line to reach me: </h1>
 
  
- - Simply click one of these button: 
+> Simply click one of these button: 
  (If you wan't to ask something or send some support, MOSTLY active on Facebook, you can support me by sending some love using Dana/Gopay/Bank through Trakteer below btw).
 
 
@@ -34,10 +34,9 @@ Discrete math, and college level math) is the other half.
 <a href="https://trakteer.id/Yoyatech">
 <img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="25">
 </a>
-
-
-
- - Please consider to press the follow button below, that will support me a lot.
+<br />
+<br />
+- Please consider to press the follow button below, that will support me a lot.
 
 [![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
 <p align="left">
@@ -47,8 +46,9 @@ Discrete math, and college level math) is the other half.
 
 
 「ありがとう」何度も叫びたい!!
-
-### Most Recent Youtube Videos (Rio)
+<br />
+<br />
+<h1>Most Recent Youtube Videos (Rio)</h1>
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
@@ -57,16 +57,13 @@ Discrete math, and college level math) is the other half.
 <br />
 <br />
 
-### 📕 Most Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!---
+### 📕 Readed Book
 
+<br />
 
-Ryoferzz/Ryoferzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 💻 Course & Certification
 
+<br />
 
 <h1>Some Stats</h1>
 
