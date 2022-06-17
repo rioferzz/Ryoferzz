@@ -1,8 +1,8 @@
 <h1><img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Ryonamedark.gif"></h1>
 
-> 👀 I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
+> I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
 
-> Btw, i think knowing Programming could solve half of problem in your academics.
+>  I think knowing Programming could solve half of problem in your academics.
 > 
 >    And being an expert in math (Calculus, 
 Discrete math, and college level math) is the other half.
@@ -11,8 +11,45 @@ Discrete math, and college level math) is the other half.
 
  >   I realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
 
+<br />
 
- <h1>📫 Line to reach me: </h1>
+<p align="left">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
+
+<!---
+<p align="left">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz" />
+    saya lelah disepelekan..
+    Ilmu yang saya bagikan : kecuali hal haram, memperlihatkan aurat, illegal dan melanggar hukum haki dll
+    
+</p> --->
+
+<p align="left">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=github&layout=compact" />
+</p>
+
+<p align="left">
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz&layout=compact" />
+</p>
+
+![Metrics](https://metrics.lecoq.io/Ryoferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
+ 
+<br />
+<br />
+- Please consider to press the follow button below, that will support me a lot.
+
+[![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ryoferzz" alt="Ryoferzz" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Ryoferzz" alt="visitor badge"/>
+</p>
+
+
+「ありがとう」何度も叫びたい!!
+<br />
+<br />
+<h1>📫 Line to reach me: </h1>
 
  
 > Simply click one of these button: 
@@ -35,20 +72,8 @@ Discrete math, and college level math) is the other half.
 <img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="25">
 </a>
 <br />
-<br />
-- Please consider to press the follow button below, that will support me a lot.
-
-[![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ryoferzz" alt="Ryoferzz" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ryoferzz" alt="visitor badge"/>
-</p>
-
-
-「ありがとう」何度も叫びたい!!
-<br />
-<br />
 <h1>Most Recent Youtube Videos (Rio)</h1>
+
 
 <!-- YOUTUBE:START -->
 - [RIO FERIANTO - XII TKJ 1 - INSTALASI ZOIPER](https://www.youtube.com/watch?v=f0K9w9c6lEs)
@@ -70,28 +95,3 @@ Discrete math, and college level math) is the other half.
 
 <br />
 
-<h1>Some Stats</h1>
-
-![Metrics](https://metrics.lecoq.io/Ryoferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
-
-
-
-<p align="left">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
-
-<!---
-<p align="left">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz" />
-    saya lelah disepelekan..
-    Ilmu yang saya bagikan : kecuali hal haram, memperlihatkan aurat, illegal dan melanggar hukum haki dll
-    
-</p> --->
-
-<p align="left">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=github&layout=compact" />
-</p>
-
-<p align="left">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz&layout=compact" />
-</p>
