@@ -1,6 +1,9 @@
 <h1><img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Ryonamedark.gif"></h1>
 
 <br />
+<p align="left">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=github&layout=compact" />
+</p>
 
 <p align="left">
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
@@ -13,10 +16,6 @@
     Ilmu yang saya bagikan : kecuali hal haram, memperlihatkan aurat, illegal dan melanggar hukum haki dll
     
 </p> --->
-
-<p align="left">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=github&layout=compact" />
-</p>
 
 <p align="left">
     <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz&layout=compact" />
