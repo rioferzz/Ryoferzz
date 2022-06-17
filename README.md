@@ -1,16 +1,5 @@
 <h1><img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Ryonamedark.gif"></h1>
 
-> I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
-
->  I think knowing Programming could solve half of problem in your academics.
-> 
->    And being an expert in math (Calculus, 
-Discrete math, and college level math) is the other half.
-
->    Despite my opinion above, Being an expert in Religions, Your hobby, Judo, and the new stuff you CAN learn is a MANDATORY.
-
- >   I realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
-
 <br />
 
 <p align="left">
@@ -36,6 +25,18 @@ Discrete math, and college level math) is the other half.
 ![Metrics](https://metrics.lecoq.io/Ryoferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
  
 <br />
+
+> I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
+
+>  I think knowing Programming could solve half of problem in your academics.
+> 
+>    And being an expert in math (Calculus, 
+Discrete math, and college level math) is the other half.
+
+>    Despite my opinion above, Being an expert in Religions, Your hobby, Judo, and the new stuff you CAN learn is a MANDATORY.
+
+ >   I realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
+
 <br />
 - Please consider to press the follow button below, that will support me a lot.
 
