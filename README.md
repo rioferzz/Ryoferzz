@@ -76,7 +76,7 @@ Discrete math, and college level math) is the other half.
 
 
 <!-- YOUTUBE:START -->
-- [Abandoned Lancer GTi](https://www.youtube.com/watch?v=ykcgz2bq2KI)
+- [Abandoned Lancer GTi](https://www.youtube.com/shorts/ykcgz2bq2KI)
 - [RIO FERIANTO - XII TKJ 1 - INSTALASI ZOIPER](https://www.youtube.com/watch?v=f0K9w9c6lEs)
 - [RIO FERIANTO - XII TKJ 1 - INSTALASI DEBIAN ASTERISK](https://www.youtube.com/watch?v=kPr0c80WO14)
 - [STICK WIRELESS ANDROID MURAH ?  ||  Review &amp; cara konek stik ps 3 sixaxis](https://www.youtube.com/watch?v=u74QgG1AHac)
