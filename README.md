@@ -2,11 +2,11 @@
 
 <br />
 <p align="left">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz&theme=github&layout=compact" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Rioferzz&theme=github&layout=compact" />
 </p>
 
 <p align="left">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Ryoferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rioferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
 
 <!---
@@ -18,28 +18,21 @@
 </p> --->
 
 <p align="left">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ryoferzz&theme=radical" alt="Ryoferzz&layout=compact" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rioferzz&theme=radical" alt="Rioferzz&layout=compact" />
 </p>
 
-![Metrics](https://metrics.lecoq.io/Ryoferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/Rioferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
  
 <br />
 
 > I’m interested and currently learning on Computer Networking, Linux, Arduino, 英語, & 日本語.
-
->  I think knowing Programming could solve half of problem in your academics.
-> 
->    And being an expert in math (Calculus, 
-Discrete math, and college level math) is the other half.
-
->    Despite my opinion above, Being an expert in Religions, Your hobby, Judo, and the new stuff you CAN learn is a MANDATORY.
 
  >   I realize that programming is a new literacy, and also English language is key of all the flooded information, not only in the internet but also in the real life too. Even if you're not fluent in English, knowing some word's in English will help you a lot.
 
 <br />
 - Please consider to press the follow button below, that will support me a lot.
 
-[![GitHub: Ryoferzz](https://img.shields.io/github/followers/Ryoferzz?label=follow&style=social)](https://github.com/Ryoferzz)
+[![GitHub: Ryoferzz](https://img.shields.io/github/followers/Rioferzz?label=follow&style=social)](https://github.com/Rioferzz)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Ryoferzz" alt="Ryoferzz" />
   <img src="https://visitor-badge.glitch.me/badge?page_id=Ryoferzz" alt="visitor badge"/>
