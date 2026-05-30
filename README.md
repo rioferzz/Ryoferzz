@@ -14,9 +14,7 @@
 <!---
 <p align="left">
     <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rioferzz" />
-    saya lelah disepelekan..
     Ilmu yang saya bagikan : kecuali hal haram, memperlihatkan aurat, illegal dan melanggar hukum haki dll
-    
 </p> 
 
 --->
@@ -54,8 +52,8 @@
 
 
 
-[![Duolingo: Rioferiezz](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/RioFeriant)
-[![Facebook: Rioferiezz](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Rio&logoColor=white)](https://facebook.com/rioferiezz)
+[![Duolingo: Rioferzz](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/RioFeriant)
+[![Facebook: Rioferzz](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Rio&logoColor=white)](https://facebook.com/rioferiezz)
 [![Twitter: Rioferzz](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rioferzz)
 [![Linkedin: Rioferzz](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rio-ferianto-1392b712a/)
 [![YouTube: Rioferzz](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC9ppbV54mFWroWbS6fFZuEw)
