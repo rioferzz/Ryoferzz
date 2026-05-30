@@ -8,7 +8,7 @@
 
 ---
 
-## About Me
+# About Me
 
 I'm interested in and currently learning **Computer Networking**, **VPS**, **IoT**, and **日本語**.
 
@@ -17,6 +17,11 @@ I believe programming is a new form of literacy and English is the key that unlo
 ---
 
 ## What Rio Work On
+<p align="center">
+  <a href="https://www.yoyalabs.com/">
+    <img width="90%" src="https://img.shields.io/badge/📌%20More%20Detail%20Here-yoyalabs.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&color=7b2ff7" alt="Open Rio Website" />
+  </a>
+</p>
 
 <table>
   <tr>
@@ -38,7 +43,6 @@ I believe programming is a new form of literacy and English is the key that unlo
   </tr>
 </table>
 
-> 📌 [Rio Main Website](https://www.yoyalabs.com)
 
 ---
 
@@ -104,13 +108,21 @@ I believe programming is a new form of literacy and English is the key that unlo
 
 ## 📕 Books I've Read
 
-> 📌 [Rio Main Website](https://www.yoyalabs.com/booksarc)
+<p align="center">
+  <a href="https://www.yoyalabs.com/booksarc">
+    <img width="90%" src="https://img.shields.io/badge/📌%20Books%20Review%20Here-yoyalabs.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&color=7b2ff7" alt="Open Rio Website" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Courses & Certifications
 
-> 📌 [Rio Main Website](https://www.yoyalabs.com/certificate)
+<p align="center">
+  <a href="https://www.yoyalabs.com/certificaterio">
+    <img width="90%" src="https://img.shields.io/badge/📌%20Certificate%20Detail%20Here-yoyalabs.com-blueviolet?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1a1a2e&color=7b2ff7" alt="Open Rio Website" />
+  </a>
+</p>
 
 ---
 
