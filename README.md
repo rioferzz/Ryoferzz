@@ -1,27 +1,31 @@
-<h1><img src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/Ryonamedark.gif"></h1>
+<h1><img src="https://github.com/rioferzz/rioferzz/blob/main/src/Ryonamedark.gif"></h1>
 
 <br />
-<p align="left">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Rioferzz&theme=github&layout=compact" />
-</p>
-
-<p align="left">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rioferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
-
 <!---
 <p align="left">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Ryoferzz" />
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rioferzz&theme=github&layout=compact" />
+</p>
+--->
+<!---
+<p align="left">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=rioferzz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
+--->
+<!---
+<p align="left">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=rioferzz" />
     saya lelah disepelekan..
     Ilmu yang saya bagikan : kecuali hal haram, memperlihatkan aurat, illegal dan melanggar hukum haki dll
     
-</p> --->
+</p> 
+
+--->
 
 <p align="left">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rioferzz&theme=radical" alt="Rioferzz&layout=compact" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=rioferzz&theme=radical" alt="rioferzz&layout=compact" />
 </p>
 
-![Metrics](https://metrics.lecoq.io/Rioferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/rioferzz?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
  
 <br />
 
@@ -32,10 +36,10 @@
 <br />
 - Please consider to press the follow button below, that will support me a lot.
 
-[![GitHub: Ryoferzz](https://img.shields.io/github/followers/Rioferzz?label=follow&style=social)](https://github.com/Rioferzz)
+[![GitHub: rioferzz](https://img.shields.io/github/followers/rioferzz?label=follow&style=social)](https://github.com/rioferzz)
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ryoferzz" alt="Ryoferzz" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ryoferzz" alt="visitor badge"/>
+  <img src="https://komarev.com/ghpvc/?username=rioferzz" alt="rioferzz" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=rioferzz" alt="visitor badge"/>
 </p>
 
 
@@ -59,10 +63,10 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/Ryoferzz)
 
 <a href="https://shopee.co.id/ryohoho">
-<img alt="Shopee" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/shopee.png"height="25">
+<img alt="Shopee" src="https://github.com/rioferzz/rioferzz/blob/main/src/shopee.png"height="25">
 </a>
 <a href="https://trakteer.id/Yoyatech">
-<img alt="Trakteer" src="https://github.com/Ryoferzz/Ryoferzz/blob/main/src/trakteer.jpg"height="25">
+<img alt="Trakteer" src="https://github.com/rioferzz/rioferzz/blob/main/src/trakteer.jpg"height="25">
 </a>
 <br />
 <h1>Most Recent Youtube Videos (Rio)</h1>
@@ -87,4 +91,3 @@
 ### 💻 Course & Certification
 
 <br />
-
